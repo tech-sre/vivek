@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name":"Vivek Raj",
+    "description":"I am a DevOps Enginner. Self-motivated individual with 2+ years of IT experience in e-Commerce/Payment domain managing advanced multi-platform I.T. Infrastructure which includes Systems Engineering, Infrastructure automation, and DevOps",
+    "image":"profilepic.jpg",
+    "bio":"Proficient in automating the infrastructure with AWS, Kubernetes, and Terraform. Working experience in building scalable infrastructure, build and deployment automation with Concourse, Go CI/CD set up using Jenkins, GIT, Ansible tools. Proficient in setting up monitoring and alerting (Prometheus and Grafana), backup/restore and disaster recovery management.",
+    "contactmessage":"Contact Me",
+    "email": "7.vivek.raj@gmail.com",
+    "phone": "+91-7503253091",
+    "github":"https://github.com/vivekhz01",
+    "project":"#",
+    "address":{
+      "street":"Fazilpur",
+      "city":"Gurgaon",
+      "state":"Haryana",
+      "zip": "122101"
+    },
+    "website": "#",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/vivek.raj.00",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/vivekhz01",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/vivek-raj-00",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/vivek.raj.1",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/vivekhz01",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Skills",
+    "education":[
+      {
+        "school":"Greater Noida Insatitute of Technology (Greater Noida)",
+        "degree":"B.tech",
+        "graduated":"2013-2017"
+      },
+      {
+        "school":"B.S.E.B",
+        "degree":"Senior Secondary",
+        "graduated":"2011-13"
+      },
+      {
+        "school":"B.S.E.B",
+        "degree":"Secondary",
+        "graduated":"2010-11"
+      }
+    ],
+    "work":[
+      {
+        "company":"PayU Payments Pvt. Ltd.",
+        "title":"DevOps Engineer",
+        "years":"October 2019 - Present",
+        "description":"Good Hands-on DevOps Tool like Jenkins/Ansible/Kubernets, Management of Web servers like Apache, Nginx., Log Management and visualization using ELK (ElasticSearch, Logstash, and Kibana) stack with Kafka, and Grafana., Monitoring development using Nagios, Icinga, Prometheus. UI develop for DevOps through React. System troubleshooting and problem solving across platform and application domains. Build, release and configuration management of production systems. Migrated all the Infra from Physical Datacenter to Aws Cloud with Minimal Downtime."
+      },
+      {
+        "company":"PayU Payments Pvt. Ltd.",
+        "title":"NOC Engineer",
+        "years":"October 2018 - June 2020",
+        "description":"Monitoring and Troubleshooting of Production/Non-Production server to ensure High Availability. Machine Provisioning. Mail Server configuration and Troubleshooting. Configuration manage engine tool and add all the servers that are used in production in monitoring tool and configure alarms for individual server as per requirement. To ensure each and every server follows the criteria of PCI."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Linux",
+        "level":"80%"
+      },
+      {
+        "name":"Bash",
+        "level":"80%"
+      },
+      {
+        "name":"Ansible",
+        "level":"90%"
+      },
+      {
+        "name":"Kubernets",
+        "level":"70%"
+      },
+      {
+        "name":"AWS",
+        "level":"80%"
+      },
+      {
+        "name":"Azure",
+        "level":"80%"
+      },
+      {
+        "name":"GCP",
+        "level":"70%"
+      },
+      {
+        "name":"Prometheus",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"DevOps Custom UI",
+        "category":"Roles based authentication with approval system.",
+        "image":"customUI.png",
+        "url":"#"
+      },
+      {
+        "title":"Monitoring",
+        "category":"Monitoring Migration from commercial tool to opensource",
+        "image":"grafana.png",
+        "url":"#"
+      },
+      {
+        "title":"DR Migration on Kubernetes",
+        "category":"ALL application move on single cluster",
+        "image":"kubernetes.png",
+        "url":"h#"
+      }
+    ]
+  }
+}
